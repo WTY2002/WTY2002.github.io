@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wty2002.github.io/</id>
+    <title>WTY@blog</title>
+    <updated>2022-06-10T06:26:28.465Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wty2002.github.io/"/>
+    <link rel="self" href="https://wty2002.github.io/atom.xml"/>
+    <subtitle>关于我的一点点……</subtitle>
+    <logo>https://wty2002.github.io/images/avatar.png</logo>
+    <icon>https://wty2002.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, WTY@blog</rights>
+    <entry>
+        <title type="html"><![CDATA[技术分享]]></title>
+        <id>https://wty2002.github.io/post/ji-zhu-fen-xiang/</id>
+        <link href="https://wty2002.github.io/post/ji-zhu-fen-xiang/">
+        </link>
+        <updated>2021-10-17T07:42:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="图片相关">图片相关</h1>
+<p><strong>👍壁纸推荐：</strong><br>
+<a href="https://wallhaven.cc/">https://wallhaven.cc/</a><br>
+<a href="https://bz.zzzmh.cn/index">https://bz.zzzmh.cn/index</a><br>
+<a href="https://pixabay.com/">https://pixabay.com/</a><br>
+bing壁纸：<a href="https://bing.ioliu.cn/">https://bing.ioliu.cn/</a></p>
+<p><strong>🎉透明背景图、P图用：</strong><br>
+<a href="http://pngimg.com/">http://pngimg.com/</a></p>
+<p><strong>🐾在线智能抠图：</strong><br>
+<a href="https://www.remove.bg/">https://www.remove.bg/</a></p>
+<p><strong>👀ICO在线转换器：</strong><br>
+<a href="http://www.ico51.cn/">http://www.ico51.cn/</a><br>
+<a href="https://png2icojs.com/zh/">https://png2icojs.com/zh/</a></p>
+<p><strong>🛒在线压缩图片：</strong><br>
+<a href="https://tinypng.com/">https://tinypng.com/</a></p>
+<p><strong>🍖图片放大：</strong><br>
+<a href="https://bigjpg.com/">https://bigjpg.com/</a></p>
+<h1 id="前端相关">前端相关</h1>
+<p><strong>🍺色彩表（含编码，RGB）：</strong><br>
+<a href="http://www.ebaomonthly.com/window/photo/lesson/colorList.htm">http://www.ebaomonthly.com/window/photo/lesson/colorList.htm</a></p>
+<p><strong>🍭阿里巴巴矢量图标库：</strong><br>
+<a href="https://www.iconfont.cn/">https://www.iconfont.cn/</a></p>
+<p><strong>🍎html特效：</strong><br>
+<a href="https://codepen.io/">https://codepen.io/</a></p>
+<p><strong>🌵前端学习文档：</strong><br>
+<a href="https://docschina.org/">https://docschina.org/</a></p>
+<h1 id="算法相关">算法相关</h1>
+<p><strong>🚀代码随想录（算法）：</strong><br>
+<a href="https://www.programmercarl.com/">https://www.programmercarl.com/</a></p>
+<p><strong>🚩算法语雀笔记：</strong><br>
+<a href="https://www.yuque.com/liweiwei1419/algo">https://www.yuque.com/liweiwei1419/algo</a></p>
+<h1 id="后台相关">后台相关</h1>
+<h2 id="java板块">Java板块</h2>
+<p><strong>🎈Java全栈知识体系文档：</strong><br>
+<a href="https://www.pdai.tech/md/java/basic/java-basic-lan-basic.html">https://www.pdai.tech/md/java/basic/java-basic-lan-basic.html</a><br>
+<a href="https://www.pdai.tech/">https://www.pdai.tech/</a></p>
+<p><strong>🧨Java层级规范：</strong><br>
+<a href="https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&amp;mid=2247520839&amp;idx=2&amp;sn=979358198a1d03b548957bc20abf33b2&amp;chksm=fa4aedf6cd3d64e0ee947e5d4c2a80c4af50857111a38f8af77bccfb7a979a378e74645d4807&amp;mpshare=1&amp;scene=23&amp;srcid=0715u53qW4XrnQpZUneT8xTi&amp;sharer_sharetime=1626324328761&amp;sharer_shareid=ed35c9cd2880abd23711729311ab78d5#rd">优秀的代码都是如何分层的？</a></p>
+<p><strong>🏆Spring Boot自定义启动Banner在线生成工具：</strong><br>
+<a href="https://www.bootschool.net/ascii">https://www.bootschool.net/ascii</a></p>
+<p><strong>🏝️转码工具（bootstrap）：</strong><br>
+<a href="https://www.bootschool.net/">https://www.bootschool.net/</a></p>
+<h2 id="其它">其它</h2>
+<p><strong>😉免费API接口：</strong><br>
+<a href="https://api.yimian.xyz/">https://api.yimian.xyz/</a></p>
+<p><strong>🙃API文档制作工具，生成可视化网站：</strong><br>
+<a href="https://www.showdoc.com.cn/">https://www.showdoc.com.cn/</a></p>
+<h1 id="游戏相关">游戏相关</h1>
+<p><strong>💪虚幻引擎课程资源（CJC）：</strong><br>
+<a href="https://www.hellocjc.com/courses">https://www.hellocjc.com/courses</a></p>
+<p><strong>👉虚幻引擎官方课程资源：</strong><br>
+<a href="https://learn.unrealengine.com/home/dashboard">https://learn.unrealengine.com/home/dashboard</a></p>
+<p><strong>👐siki学院（游戏制作资源）：</strong><br>
+<a href="http://www.sikiedu.com/">http://www.sikiedu.com/</a></p>
+<h1 id="文档相关">文档相关</h1>
+<p><strong>🍆PPT免费模板下载：</strong><br>
+<a href="http://www.1ppt.com/">http://www.1ppt.com/</a></p>
+<p><strong>🌽PDF在线转换工具：</strong><br>
+<a href="https://www.cleverpdf.com/cn">https://www.cleverpdf.com/cn</a></p>
+<h1 id="logo-流程图制作">Logo、流程图制作</h1>
+<p><strong>🌶️文字Logo设计：</strong><br>
+<a href="http://www.uugai.com/logoa/font_index.php">http://www.uugai.com/logoa/font_index.php</a></p>
+<p><strong>🍅绘图相关（思维导图，流程图）：</strong><br>
+<a href="https://app.diagrams.net/">https://app.diagrams.net/</a></p>
+<p><strong>🍏process On流程图制作：</strong><br>
+<a href="https://www.processon.com/;jsessionid=C68CE217D799416621D9317C932B96CE.jvm1">https://www.processon.com/;jsessionid=C68CE217D799416621D9317C932B96CE.jvm1</a></p>
+<h1 id="其它-2">其它</h1>
+<p><strong>🍀在线开发工具：</strong><br>
+<a href="https://tool.lu/">https://tool.lu/</a></p>
+<p><strong>🍋大学课程资源：</strong><br>
+<a href="https://www.techfens.com/">https://www.techfens.com/</a></p>
+<p><strong>🎲免费图床：</strong><br>
+<a href="https://imgtu.com/i/2aF8ET">https://imgtu.com/i/2aF8ET</a></p>
+<p><strong>🔔Python题集（含题解）：</strong><br>
+<a href="http://www.1ppt.com/">http://www.1ppt.com/</a></p>
+<p><strong>🏹影视森林（视频导航）：</strong><br>
+<a href="http://www.549.tv/">http://www.549.tv/</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放码过来！]]></title>
+        <id>https://wty2002.github.io/post/fang-ma-guo-lai/</id>
+        <link href="https://wty2002.github.io/post/fang-ma-guo-lai/">
+        </link>
+        <updated>2021-07-03T12:32:17.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="c语言朗读脚本">C语言朗读脚本</h1>
+<pre><code class="language-c">#define _CRT_SECURE_NO_WARNINGS
+#include&quot;stdio.h&quot;
+#include&quot;stdlib.h&quot;
+#include&quot;string.h&quot;
+int main()
+{
+	char a[999999]=&quot;&quot;;
+	printf(&quot;请输入要朗读的文字：&quot;);
+	gets(a);
+	FILE *b;
+	b=fopen(&quot;Speak.vbs&quot;,&quot;w+&quot;);
+	fprintf(b,&quot;CreateObject(\&quot;SAPI.SpVoice\&quot;).Speak(\&quot;%s\&quot;)&quot;,a);
+	fclose(b);
+	system(&quot;Speak.vbs&quot;);
+	system(&quot;del Speak.vbs&quot;);
+	return 0;
+}
+</code></pre>
+<p><img src="https://wty2002.github.io//post-images/1625315684336.png" alt="" loading="lazy"><br>
+输入完毕后点击回车，会自动朗读输入的类容。<br>
+<strong>输入的语言不能含有换行符！！！</strong><br>
+<strong>运行环境，C语言编译器。</strong></p>
+<h1 id="c语言个性文字">C语言个性文字</h1>
+<pre><code class="language-c">#include&lt;stdio.h&gt;
+int main()
+{
+   long time;
+   char a[20]={-80,-95,-93,-95,
+                      -74,-44,-60,-29,
+	      -50,-34,-45,-17,
+	      -63,-53,-93,-95,'\0'};
+   printf(&quot;\n\n\n\n\n\n\n\n\n&quot;);
+   printf(&quot;\n\n\n\t\t\t\t\t\t&quot;);
+   puts(a);
+   for(; ; )
+{
+system(&quot;color a&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color b&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color c&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color d&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color e&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color f&quot;);
+for(time=0;time&lt;99999999;time++);
+system(&quot;color 0&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 1&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 2&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 3&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 4&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 5&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 6&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 7&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 8&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 9&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ab&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ac&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ad&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ae&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color af&quot;);
+for(time=0;time&lt;99999999;time++); }
+   return 0;
+}
+</code></pre>
+<p><strong>运行效果</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/WTY2002/picture@main/img26.gif" alt="" loading="lazy"></p>
+<h1 id="表白爱心">表白爱心</h1>
+<pre><code class="language-c">#include &lt;stdio.h&gt;
+#include &lt;math.h&gt;
+#include &lt;stdlib.h&gt;
+#define I 20
+#define R 340
+int main()
+{
+int i,j,e;
+int a;
+long time;
+for(i=1,a=I;i&lt;I/2;i++,a--)
+{
+for(j=(int) ( I-sqrt(I*I-(a-i)*(a-i)) );j&gt;0;j--)
+printf(&quot; &quot;);
+for(e=1;e&lt;=2*sqrt(I*I-(a-i)*(a-i));e++)
+printf(&quot;\3&quot;);
+for(j=(int)
+( 2*( I-sqrt(I*I-(a-i)*(a-i)) ) );j&gt;0;j--)
+printf(&quot; &quot;);
+for(e=1;e&lt;=2*sqrt(I*I-(a-i)*(a-i));e++)
+printf(&quot;\3&quot;);
+printf(&quot;\n&quot;); }
+for(i=1;i&lt;80;i++)
+{
+if(i==25)
+{
+printf(&quot; 我           爱           你 &quot;);
+i+=30;
+}
+printf(&quot;\3&quot;);
+}
+printf(&quot;\n&quot;);
+for(i=1;i&lt;=R/2;i++)
+{
+if(i%2||i%3)
+continue;
+for(j=(int) ( R-sqrt(R*R-i*i) );j&gt;0;j--)
+printf(&quot; &quot;);
+for(e=1;e&lt;=2*( sqrt(R*R-i*i) - (R-2*I) );e++)
+printf(&quot;\3&quot;);
+printf(&quot;\n&quot;);
+}
+ 
+for(; ; )
+{
+system(&quot;color a&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color b&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color c&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color d&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color e&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color f&quot;);
+for(time=0;time&lt;99999999;time++);
+system(&quot;color 0&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 1&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 2&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 3&quot;); for(time=0;time&lt;99999999;time++);
+system(&quot;color 4&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 5&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 6&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 7&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 8&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color 9&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ab&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ac&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ad&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color ae&quot;);
+for(time=0;time&lt;99999999;time++); system(&quot;color af&quot;);
+for(time=0;time&lt;99999999;time++); }
+return 0;
+}
+</code></pre>
+<p><strong>运行效果</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/WTY2002/picture@main/img27.png" alt="" loading="lazy"></p>
+<h1 id="情人节礼物">情人节礼物</h1>
+<pre><code class="language-c">#include &lt;stdio.h&gt;
+#include&lt;stdlib.h&gt;
+int main()
+{
+int  i, j, k, l, m;
+char c=42;  
+for (i=1; i&lt;=5; i++)    printf(&quot;\n&quot;); 
+for (i=1; i&lt;=3; i++) { 
+for (j=1; j&lt;=32-2*i; j++)  printf(&quot; &quot;); 
+for (k=1; k&lt;=4*i+1; k++)  {system(&quot;color 1&quot;);printf(&quot;%c&quot;, c);system(&quot;color 2&quot;);}
+for (l=1; l&lt;=13-4*i; l++)  printf(&quot; &quot;); 
+for (m=1; m&lt;=4*i+1; m++)  { system(&quot;color 5&quot;);printf(&quot;%c&quot;, c);}
+printf(&quot;\n&quot;);  
+}
+for (i=1; i&lt;=3; i++)
+{ 
+for (j=1; j&lt;=25; j++)   printf(&quot; &quot;); 
+for (k=1; k&lt;=8; k++)
+if (k==5&amp;&amp;i==1)
+{printf(&quot;送给女朋友的情人节礼物&quot;);}
+else if (k==5&amp;&amp;i!=1) {system(&quot;color B&quot;);printf(&quot;**********************&quot;);}
+else {system(&quot;color 6&quot;);printf(&quot;%c&quot;, c);}
+printf(&quot;\n&quot;); 
+}
+for (i=7; i&gt;=1; i--) {
+for (j=1; j&lt;=40-2*i; j++)  printf(&quot; &quot;); 
+for (k=1; k&lt;=4*i-1; k++) {system(&quot;color 4&quot;); printf(&quot;%c&quot;, c);system(&quot;color 3&quot;);}
+printf(&quot;\n&quot;);  
+}
+for (i=1; i&lt;=39; i++)    printf(&quot; &quot;); 
+printf(&quot;%c\n&quot;, c); 
+for (i=1; i&lt;=5; i++)    printf(&quot;\n&quot;);
+return 0;
+}
+</code></pre>
+<p><strong>运行效果</strong><br>
+<img src="https://cdn.jsdelivr.net/gh/WTY2002/picture@main/img28.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++案例]]></title>
+        <id>https://wty2002.github.io/post/can-li/</id>
+        <link href="https://wty2002.github.io/post/can-li/">
+        </link>
+        <updated>2021-06-15T11:47:52.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>从C到C++的过渡案例</strong></p>
+<h2 id="源码">源码</h2>
+<pre><code class="language-c">#include&lt;iostream&gt;
+#include&lt;string&gt;
+using namespace std;
+#define Max 1000
+//联系人结构体
+struct person {
+	//姓名
+	string name;
+	//性别 1.男 2.女
+	int sex;
+	//年龄
+	int age;
+	//电话
+	string phone;
+	//住址
+	string addr;
+};
+//通讯录结构体
+struct addressbook{
+	//通讯录中保存的联系人
+	struct person personarr[Max];
+	//当前存的人员个数
+	int size;
+};
+//1、 添加联系人
+void addperson(addressbook* abs) {
+	//判满
+	if (abs-&gt;size == Max) {
+		cout &lt;&lt; &quot;通讯录人已满，无法添加！&quot; &lt;&lt; endl;
+		return;
+	}
+	else {//添加具体的联系人
+		//姓名
+		string name;
+		cout &lt;&lt; &quot;请输入姓名： &quot; &lt;&lt; endl;
+		cin &gt;&gt; name;
+		abs-&gt;personarr[abs-&gt;size].name = name;
+		//性别
+		cout &lt;&lt; &quot;请输入性别： &quot; &lt;&lt; endl;
+		cout &lt;&lt; &quot;1------男&quot; &lt;&lt; endl;
+		cout &lt;&lt; &quot;2------女&quot; &lt;&lt; endl;
+		int sex = 0;
+		while (1) {
+			cin &gt;&gt; sex;
+			if (sex == 1 || sex == 2) {
+				abs-&gt;personarr[abs-&gt;size].sex = sex;
+				break;
+			}
+			else
+				cout &lt;&lt; &quot;输入有误，请重新输入！&quot; &lt;&lt; endl;
+		}
+		//年龄
+		cout &lt;&lt; &quot;请输入年龄： &quot; &lt;&lt; endl;
+		int age = 0;
+		while (1) {
+			cin &gt;&gt; age;
+			if (age &gt;0&amp;&amp; age&lt;150) {
+				abs-&gt;personarr[abs-&gt;size].age = age;
+				break;
+			}
+			else
+				cout &lt;&lt; &quot;输入有误，请重新输入！&quot; &lt;&lt; endl;
+		}
+		//电话
+		cout &lt;&lt; &quot;请输入联系电话： &quot; &lt;&lt; endl;
+		string phone;
+		cin &gt;&gt; phone;
+		abs-&gt;personarr[abs-&gt;size].phone = phone;
+		//住址
+		cout &lt;&lt; &quot;请输入家庭住址： &quot; &lt;&lt; endl;
+		string addr;
+		cin &gt;&gt; addr;
+		abs-&gt;personarr[abs-&gt;size].addr = addr;
+		//更新通讯录人数
+		abs-&gt;size++;
+		cout &lt;&lt; &quot;添加成功！&quot; &lt;&lt; endl;
+		system(&quot;pause&quot;);//请按任意键继续
+		system(&quot;cls&quot;);//清屏操作
+	}
+}
+//2、 显示联系人
+void showperson(struct addressbook* abs) {
+	//判断通讯录中人数是否为0
+	if (abs-&gt;size == 0) {
+		cout &lt;&lt; &quot;当前的记录为空！&quot; &lt;&lt; endl;
+	}
+	else {
+		for (int i = 0; i &lt; abs-&gt;size; i++) {
+			cout &lt;&lt; &quot;姓名： &quot; &lt;&lt; abs-&gt;personarr[i].name &lt;&lt; &quot;\t&quot;;
+			cout &lt;&lt; &quot;性别： &quot; &lt;&lt; (abs-&gt;personarr[i].sex==1?&quot;男&quot;:&quot;女&quot;) &lt;&lt; &quot;\t&quot;;
+			cout &lt;&lt; &quot;年龄： &quot; &lt;&lt; abs-&gt;personarr[i].age &lt;&lt; &quot;\t&quot;;
+			cout &lt;&lt; &quot;电话： &quot; &lt;&lt; abs-&gt;personarr[i].phone &lt;&lt; &quot;\t&quot;;
+			cout &lt;&lt; &quot;住址： &quot; &lt;&lt; abs-&gt;personarr[i].addr &lt;&lt; endl;
+		}
+	}
+	system(&quot;pause&quot;);//请按任意键继续
+	system(&quot;cls&quot;);//清屏操作
+}
+//检查联系人是否存在；若存在，返回其具体位置；若不存在，返回-1；
+int isexit(addressbook* abs, string name) {
+	for (int i = 0; i &lt; abs-&gt;size; i++) {
+		//如果找到该用户
+		if (abs-&gt;personarr[i].name == name) {
+			return i;
+		}
+	}
+	//若没有找到该用户
+	return -1;
+}
+//3、 删除指定的联系人
+void deleteperson(addressbook* abs) {
+	cout &lt;&lt; &quot;请输入需要删除的联系人&quot; &lt;&lt; endl;
+	string name;
+	cin &gt;&gt; name;
+	//ret==-1 没查到
+	//ret！=-1 查到了
+	int ret = isexit(abs, name);
+	if (ret != -1) {
+		//查找到人，要进行删除操作。
+		for (int i = ret; i &lt; abs-&gt;size; i++) {
+			//进行数据迁移
+			abs-&gt;personarr[i] = abs-&gt;personarr[i + 1];
+			abs-&gt;size--;//更新通讯录中的人员数
+			cout&lt;&lt;&quot;删除成功！&quot;&lt;&lt;endl;
+		}
+	}
+	else
+		cout &lt;&lt; &quot;查无此人！&quot; &lt;&lt; endl;
+	system(&quot;pause&quot;);//请按任意键继续
+	system(&quot;cls&quot;);//清屏操作
+}
+//4、 查找指定的联系人信息
+void findperson(addressbook* abs){
+	cout &lt;&lt; &quot;请输入您要查找的联系人&quot; &lt;&lt; endl;
+	string name;
+	cin &gt;&gt; name;
+	//判断指定的联系人是否存在
+	int ret = isexit(abs, name);
+	if (ret != -1) {//找到此人
+		cout &lt;&lt; &quot;姓名： &quot; &lt;&lt; abs-&gt;personarr[ret].name &lt;&lt; &quot;\t&quot;;
+		cout &lt;&lt; &quot;性别： &quot; &lt;&lt; abs-&gt;personarr[ret].sex &lt;&lt; &quot;\t&quot;;
+		cout &lt;&lt; &quot;年龄： &quot; &lt;&lt; abs-&gt;personarr[ret].age &lt;&lt; &quot;\t&quot;;
+		cout &lt;&lt; &quot;电话： &quot; &lt;&lt; abs-&gt;personarr[ret].phone &lt;&lt; &quot;\t&quot;;
+		cout &lt;&lt; &quot;住址： &quot; &lt;&lt; abs-&gt;personarr[ret].addr &lt;&lt; endl;
+
+	}
+	else {//未找到此人
+		cout &lt;&lt; &quot;查无此人！&quot; &lt;&lt; endl;
+	}
+	system(&quot;pause&quot;);//请按任意键继续
+	system(&quot;cls&quot;);//清屏操作
+}
+//5、 修改指定的联系人信息
+void modifyperson(addressbook* abs) {
+	cout &lt;&lt; &quot;请输入您要修改的联系人！&quot; &lt;&lt; endl;
+	string name;
+	cin &gt;&gt; name;
+	int ret = isexit(abs, name);
+	if (ret != -1) {//找到指定的联系人
+		//姓名
+		string name;
+		cout &lt;&lt; &quot;请输入姓名：&quot; &lt;&lt; endl;
+		cin &gt;&gt; name;
+		abs-&gt;personarr[ret].name = name;
+		//性别
+		cout &lt;&lt; &quot;请输入性别：&quot; &lt;&lt; endl;
+		cout &lt;&lt; &quot;1------男&quot; &lt;&lt; endl;
+		cout &lt;&lt; &quot;2------女&quot; &lt;&lt; endl;
+		int sex = 0;
+		while (1) {
+			cin &gt;&gt; sex;
+			if (sex == 1 || sex == 2) {
+				abs-&gt;personarr[ret].sex = sex;
+				break;
+			}
+			cout &lt;&lt; &quot;输入有误，请重新输入！&quot; &lt;&lt; endl;
+		}
+		//年龄
+		int age;
+		cout &lt;&lt; &quot;请输入年龄：&quot; &lt;&lt; endl;
+		while (1) {
+			cin &gt;&gt; age;
+			if (age &gt; 0 &amp;&amp; age &lt; 150) {
+				abs-&gt;personarr[ret].age = age;
+				break;
+			}
+			else
+				cout &lt;&lt; &quot;输入有误，请重新输入！&quot; &lt;&lt; endl;
+		}
+		//电话
+		cout &lt;&lt; &quot;请输入联系电话：&quot; &lt;&lt; endl;
+		string phone;
+		cin &gt;&gt; phone;
+		abs-&gt;personarr[ret].phone = phone;
+		//住址
+		cout &lt;&lt; &quot;请输入家庭住址：&quot; &lt;&lt; endl;
+		string addr;
+		cin &gt;&gt; addr;
+		abs-&gt;personarr[ret].addr = addr;
+		cout &lt;&lt; &quot;修改成功！&quot; &lt;&lt; endl;
+		
+	}
+	else {//未找到联系人
+		cout &lt;&lt; &quot;查无此人！&quot; &lt;&lt; endl;
+	}
+	system(&quot;pause&quot;);//请按任意键继续
+	system(&quot;cls&quot;);//清屏操作
+}
+//6、 清空所有的联系人
+void clearperson(addressbook* abs) {
+	abs-&gt;size = 0;//将当前的联系人的数量记为0
+	cout &lt;&lt; &quot;通讯录已清空！&quot; &lt;&lt; endl;
+	system(&quot;pause&quot;);//请按任意键继续
+	system(&quot;cls&quot;);//清屏操作
+}
+//菜单界面
+void showMenu(){
+	cout &lt;&lt; &quot;***************************&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  1、添加联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  2、显示联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  3、删除联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  4、查找联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  5、修改联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  6、清空联系人  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;*****  0、退出通讯录  *****&quot; &lt;&lt; endl;
+	cout &lt;&lt; &quot;***************************&quot; &lt;&lt; endl;
+}
+int main(){
+	//创建通讯录中的结构体变量
+	addressbook abs;
+	//初始化当前的人数
+	abs.size = 0;
+	int select = 0;//创建一个用户选择输入的对象
+	while (1) {
+		showMenu();
+		cin &gt;&gt; select;
+		switch (select) {
+		case 1://1、添加联系人
+			addperson(&amp;abs);
+			break;
+		case 2://2、显示联系人
+			showperson(&amp;abs);
+			break;
+		case 3://3、删除联系人
+		{
+			/*cout &lt;&lt; &quot;请输入删除联系人的姓名：&quot; &lt;&lt; endl;
+			string name;
+			cin &gt;&gt; name;
+			if (isexit(&amp;abs, name) == -1) {
+				cout &lt;&lt; &quot;查无此人！&quot; &lt;&lt; endl;
+			}
+			else
+				cout &lt;&lt; &quot;找到了！&quot; &lt;&lt; endl;*/
+			deleteperson(&amp;abs);
+		}
+			break;
+		case 4://4、查找联系人
+			findperson(&amp;abs);
+			break;
+		case 5://5、修改联系人
+			modifyperson(&amp;abs);
+			break;
+		case 6://6、清空联系人
+			clearperson(&amp;abs);
+			break;
+		case 0://0、退出通讯录
+			cout &lt;&lt; &quot;欢迎下次使用！&quot; &lt;&lt; endl;
+			return 0;
+			break;
+		}
+	}
+	return 0;
+}
+</code></pre>
+<h2 id="效果演示">效果演示</h2>
+<figure data-type="image" tabindex="1"><img src="https://wty2002.github.io//post-images/1623757917633.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免责声明]]></title>
+        <id>https://wty2002.github.io/post/mian-ze-sheng-ming/</id>
+        <link href="https://wty2002.github.io/post/mian-ze-sheng-ming/">
+        </link>
+        <updated>2021-06-06T10:54:10.000Z</updated>
+        <content type="html"><![CDATA[<p>1.博客主要是为了记录工作、学习中遇到的问题，可能由于本人技术有限，有些不正确的地方，仅供参考。<br>
+2.博客中会转载我认为有用的博客文章，添加一些论坛或网站地址，但这些博客文章、论坛和网站上的内容和我没有关系，不代表我的意见，请网友自己多注意辨别。<br>
+3.博客中转载文章会写明来源，感谢原作者的辛苦写作，如果有异议，及时联系我处理，谢谢！<br>
+4.本文倡导文明评论，浏览者在本站发表信息时需要遵守中国现行相应法律，不得发布违法信息；否则应自行承担法律责任，与本站无关。<br>
+5.在本站的网页上有时候可能会出现有为浏览者提供方便的第三方链接(包括链接引用)或广告出现，链接或广告内容并不代表本站观点，若点击即可能将离开本站进入第三方站点，而本站将不为第三方站点带来的任何风险负责；<br>
+6.本站不完全保证所有内容的完整性、准确性和及时性；本站的浏览如果出现由于Internet线路、恶意群发、黑客入侵或其他不可抗力等原因直接给您造成了麻烦，本站对您或任何第三方均不承担任何责任；<br>
+<strong>请遵守本站的相关规定，欢迎指出有问题的地方，我会尽快修正，谢谢！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客使用帮助]]></title>
+        <id>https://wty2002.github.io/post/help/</id>
+        <link href="https://wty2002.github.io/post/help/">
+        </link>
+        <updated>2021-06-06T03:29:18.000Z</updated>
+        <content type="html"><![CDATA[<iframe  class="music" frameborder="no"  src="//music.163.com/outchain/player?type=2&id=571339489&auto=1&height=90"></iframe>
+<blockquote>
+<p>本文档为帮助文档，用于记录Fog主题常见问题及解决办法，欢迎大家进行填补。</p>
+</blockquote>
+<h2 id="特别注明">特别注明！</h2>
+<p>在fog-version0.8之后，在主题-基础配置-文章URL路径，必须选择默认！！否则会导致很多功能无法加载。</p>
+<h2 id="主题下载">主题下载</h2>
+<p>方式一：在github或者gitee页面，下载zip压缩包。<br>
+方式二（推荐）：<br>
+已安装好git。<br>
+<mark><a href="https://github.com/850552586/gridea-theme-fog">下载地址</a></mark><br>
+1.选择一个文件夹。利用cd命令进入。<br>
+2.在命令行输入以下随意一行命令（选择其一即可)</p>
+<pre><code class="language-c">git clone https://github.com/850552586/gridea-theme-fog.git
+
+#推荐下行命令，速度较快
+git clone https://gitee.com/ericam/gridea-theme-fog.git
+</code></pre>
+<p>如此便可下载fog主题，建议使用时将其中子文件夹fog复制到其他文件夹。<br>
+日后更新主题时只需要在该文件夹（gridea-theme-fog）下输入命令</p>
+<pre><code class="language-c">git pull origin
+</code></pre>
+<h2 id="如何使用该主题">如何使用该主题</h2>
+<p>将gridea-theme-fog下的fog子文件夹复制到gridea源文件的theme文件夹下即可。</p>
+<h2 id="预览正常同步后页面很乱样式css不加载">预览正常，同步后页面很乱，样式（css）不加载</h2>
+<p>强制刷新页面（ctrl+f5）<br>
+如果依然出现问题，请打开f12查看报错原因<br>
+**注意：**主题背景需自行添加，初始预览为白板是正常现象。应该前往：主题-&gt;自定义配置-&gt;背景图中添加。</p>
+<h2 id="看板娘预览地址">看板娘预览地址</h2>
+<blockquote>
+<p><a href="https://blog.csdn.net/weixin_34321753/article/details/93895440">https://blog.csdn.net/weixin_34321753/article/details/93895440</a></p>
+</blockquote>
+<h2 id="看板娘下载地址">看板娘下载地址</h2>
+<blockquote>
+<p><a href="https://gitee.com/ericam/live2d-widget-models">https://gitee.com/ericam/live2d-widget-models</a></p>
+</blockquote>
+<p>不局限于这些模型，如果你可以自己搜寻同样可以替换。</p>
+<h2 id="如何更换看板娘">如何更换看板娘</h2>
+<p>如果你懂得简单代码，可自行进主题coding。<br>
+其他方式：<br>
+1.下载完后挑选一个自己喜欢的模型，复制assets文件夹替换到fog\assets\media\live2d路径下的assets文件夹<br>
+2.同时将该assets文件夹下的两个json文件重命名为</p>
+<pre><code class="language-c">tororo.model.json
+tororo.pose.json
+</code></pre>
+<h2 id="评论的配置">评论的配置</h2>
+<p>百度搜索<a href="https://www.leancloud.cn/">Leancloud</a>注册一个账号，然后点击创建应用，在设置中的应用凭证中便可以得到AppId和AppKey。<br>
+Twikoo评论配置基于腾讯云开发，请参考<a href="https://blog.zhheo.com/p/2e6bbbd0.html">https://blog.zhheo.com/p/2e6bbbd0.html</a><br>
+Twikoo视频教程</p>
+<div class="tvcontainer">
+<iframe class="tv"  src="//player.bilibili.com/player.html?aid=372877356&bvid=BV1MZ4y1G7VB&cid=260567225&page=1"frameborder="no" scrolling="no"></iframe>
+</div>
+## 如何加速自己的网站
+Coding速度远大于Github。
+<p>建议背景图图片进行压缩。推荐网址：<a href="https://tinypng.com/">https://tinypng.com/</a><br>
+文章图片推荐使用外链。（可自行了解图床。)<br>
+如果你有自己的服务器，可以将博客部署到自己的服务器上。</p>
+<h2 id="如果文章热度一直是loading">如果文章热度一直是Loading</h2>
+<p>进入leancloud项目下，查看 部署-结构化数据 是否有Counter<br>
+如果没有，创建一个新的Class，名称为Counter</p>
+<h2 id="网易云-bilibili外链使用帮助">网易云、bilibili外链使用帮助</h2>
+<p><strong>网易云</strong></p>
+<pre><code class="language-c">&lt;iframe  class=&quot;music&quot; frameborder=&quot;no&quot;  src=&quot;//music.163.com/outchain/player?type=2&amp;id=571339489&amp;auto=1&amp;height=90&quot;&gt;&lt;/iframe&gt;
+</code></pre>
+<p>直接复制放进文章内就行，通过修改src的值来更换音乐<br>
+其中auto=0代表不会自动播放,auto=1代表自动播放。<br>
+其他值请不要修改。<br>
+<strong>Bilibili</strong></p>
+<pre><code class="language-c">&lt;div class=&quot;tvcontainer&quot;&gt;
+&lt;iframe class=&quot;tv&quot;  src=&quot;//player.bilibili.com/player.html?aid=372877356&amp;bvid=BV1MZ4y1G7VB&amp;cid=260567225&amp;page=1&quot;frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</code></pre>
+<p>在b站视频下分享按钮，有个将视频嵌入博客的链接，拿过来替换上述代码块里的iframe标签，最后记得添加class=&quot;tv&quot;，会布局的好看一点~</p>
+<h2 id="关于添加qq联系方式">关于添加QQ联系方式</h2>
+<p>如果在主题配置中填写QQ以后发现不能使用的,请到<a href="https://shang.qq.com/v3/index.html">QQ推广</a>开通QQ在线状态服务。<br>
+欢迎大家参考借鉴😀~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://wty2002.github.io/post/about/</id>
+        <link href="https://wty2002.github.io/post/about/">
+        </link>
+        <updated>2021-05-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>博主的小型知识库枢纽！⭐️</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>一名大一的计科生😜</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p><strong>健身，篮球，游戏……</strong></p>
+<h2 id="联系我呀">📬 联系我呀😄</h2>
+<p><a href="https://cdn.jsdelivr.net/gh/WTY2002/img-host@main/imgQQ1.png"><strong>QQ：2012180708</strong></a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/WTY2002/img-host@main/imgWechat1.jpg"><strong>Wecheat：WTY2012180708</strong></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://wty2002.github.io/post/hello-gridea/</id>
+        <link href="https://wty2002.github.io/post/hello-gridea/">
+        </link>
+        <updated>2021-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
